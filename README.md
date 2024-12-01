@@ -1,8 +1,8 @@
 1. **Create the database**
-2. **Create a dedicated table for opinions from the factories in Grodzisk Maz. (GroZbiorczo.csv) and Tuchom (TuchoZbiorczo.csv)**
+2. **Create a dedicated table for opinions about factories in Grodzisk Maz. (GroZbiorczo.csv) and Tuchom (TuchoZbiorczo.csv)**
 3. **Add comment ID (primary key) and user ID (foreign key)**
-4. **Create a consolidated table for FossDan factory reviews**
-5. **KPI's Implementation:**
+4. **Create a consolidated table for FossDan factory reviews - "OpinieFossDan"**
+5. **KPI's implementation:**
     - 5.1. Current average grades for the OpinieFossDan, OpinieGrodzisk, and OpinieTuchom tables
     - 5.2. Current number of grades for the OpinieFossDan, OpinieGrodzisk, and OpinieTuchom tables
     - 5.3. Percentage of individual ratings for the OpinieFossDan table
