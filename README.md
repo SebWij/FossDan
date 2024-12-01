@@ -1,3 +1,5 @@
+**FossDan**
+
 1. **Create the database**
 2. **Create a dedicated table for opinions about factories in Grodzisk Maz. (GroZbiorczo.csv) and Tuchom (TuchoZbiorczo.csv)**
 3. **Add comment ID (primary key) and user ID (foreign key)**
